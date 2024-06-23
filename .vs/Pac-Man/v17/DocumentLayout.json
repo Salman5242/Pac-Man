@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|solutionrelative:Pac-Man\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\PacMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|solutionrelative:Pac-Man\\PacMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|solutionrelative:Pac-Man\\Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacMan.cpp",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\PacMan.cpp",
+              "RelativeDocumentMoniker": "Pac-Man\\PacMan.cpp",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\PacMan.cpp",
+              "RelativeToolTip": "Pac-Man\\PacMan.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T09:06:14.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ghost.cpp",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\Ghost.cpp",
+              "RelativeDocumentMoniker": "Pac-Man\\Ghost.cpp",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\Ghost.cpp",
+              "RelativeToolTip": "Pac-Man\\Ghost.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T09:05:49.047Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Pac-Man\\Driver.cpp",
               "ToolTip": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\Driver.cpp",
               "RelativeToolTip": "Pac-Man\\Driver.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-23T08:58:38.366Z",
               "EditorCaption": ""

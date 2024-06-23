@@ -1,12 +1,4 @@
-﻿  AI.cpp
-C:\Users\Desktop\Documents\Pac-Man\Pac-Man\AI.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Animation.cpp
-  Controller.cpp
-  Driver.cpp
-  Ghost.cpp
-  Maze.cpp
-  Operation.cpp
+﻿  Ghost.cpp
   PacMan.cpp
-  Resources.cpp
   Generating Code...
   Pac-Man.vcxproj -> C:\Users\Desktop\Documents\Pac-Man\x64\Debug\Pac-Man.exe

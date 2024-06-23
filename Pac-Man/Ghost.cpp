@@ -42,16 +42,16 @@ void Ghost::Chane_Position()
 	switch (isMoving)
 	{
 	case Direction::Up:
-		Operation::move(0, -0.19f);     //0.19f speed by vector, to move up,down,left,right
+		Operation::move(0, -0.1f);     //0.19f speed by vector, to move up,down,left,right
 		break;
 	case Direction::Down:
-		Operation::move(0, 0.19f);
+		Operation::move(0, 0.1f);
 		break;
 	case Direction::Left:
-		Operation::move(-0.19f, 0);
+		Operation::move(-0.1f, 0);
 		break;
 	case Direction::Right:
-		Operation::move(0.19f, 0);
+		Operation::move(0.1f, 0);
 		break;
 	}
 }
