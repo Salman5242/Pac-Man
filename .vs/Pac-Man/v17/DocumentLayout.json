@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Desktop\\Documents\\Pac-Man\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AE16664-37DC-4A1A-ADA2-F4533FC6F2C4}|Pac-Man\\Pac-Man.vcxproj|solutionrelative:Pac-Man\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mian.cpp",
+              "DocumentMoniker": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\mian.cpp",
+              "RelativeDocumentMoniker": "Pac-Man\\mian.cpp",
+              "ToolTip": "C:\\Users\\Desktop\\Documents\\Pac-Man\\Pac-Man\\mian.cpp",
+              "RelativeToolTip": "Pac-Man\\mian.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T08:52:08.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
